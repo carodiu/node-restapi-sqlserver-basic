@@ -12,14 +12,9 @@
   <p align="center">
     A basic Rest API with Nodejs and SQL Server
     <br />
-    <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/netnimbus/node-restapi-sqlserver-basic"><strong>Explore the docs »</strong></a>
     <br />
-    <br />
-    <a href="https://github.com/github_username/repo_name">View Demo</a>
-    ·
-    <a href="https://github.com/github_username/repo_name/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/github_username/repo_name/issues">Request Feature</a>
+    <br />    
   </p>
 </div>
 
@@ -38,8 +33,7 @@
     <li>
       <a href="#getting-started">Getting Started</a>
       <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
+         <li><a href="#installation">Installation</a></li>
       </ul>
     </li>   
     <li><a href="#license">License</a></li>
@@ -74,7 +68,7 @@ This is a basic Rest API with Nodejs and SQL Server.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-
+## Getting Started
 
 ### Installation
 
@@ -140,9 +134,9 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Carolina Diaz - [@twitter_handle](https://twitter.com/twitter_handle) - email@email_client.com
+Carolina Diaz 
 
-Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
+Project Link: [https://github.com/netnimbus/node-restapi-sqlserver-basic](https://github.com/netnimbus/node-restapi-sqlserver-basic)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
