@@ -9,10 +9,10 @@ POST  {{api}}   HTTP/1.1
 Content-Type: application/json
 
 {
-    "documentId": "V-12910333",
-    "fullName":"Jose Diaz",
+    "documentId": "V-85245433",
+    "fullName":"Pedro J Diaz",
     "address":"Santiago de Chile",
-    "email":"jdiaz@santiago.com",
+    "email":"pedrodiaz@santiago.com",
     "phone":"55555555-522",
     "hireDate":"2020-08-10",
     "birthDate":"1978-06-15",
@@ -35,10 +35,10 @@ Content-Type: application/json
 
 //if sent "0" inserts bit 1
 {
-    "documentId": "V-12910333M",
-    "fullName":"Jose Diaz M",
+    "documentId": "V-158542113M",
+    "fullName":"Pablo Sequera M",
     "address":"Santiago de Chile M",
-    "email":"jdiaz@santiago.comm",
+    "email":"pablito@santiago.comm",
     "phone":"55555555-522M",
     "hireDate":"2020-08-11",
     "birthDate":"1978-06-16",
