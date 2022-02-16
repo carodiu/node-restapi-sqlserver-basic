@@ -21,10 +21,10 @@ Content-Type: application/json
 }
 
 ###
-GET {{api}}/7
+GET {{api}}/5
 
 ###
-DELETE {{api}}/7
+DELETE {{api}}/5
 
 ###
 GET {{api}}/count
